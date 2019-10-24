@@ -16,7 +16,7 @@ def monopoly_with_third_tier
 		railroads: {
 		  pieces: 4, 
 		  rent_in_dollars: {one_piece_owned: 20, two_pieces_owned: 40, three_pieces_owned: 80, four_pieces_owned:160,
-		  {kingscross:{},marlyebone_station: {},frenchurch:{},liverpoolstreet:{}},
+		  {kingscross:{},marlyebone_station: {},frenchurch:{},liverpoolstreet:{}}
 		}
 	}
 end
