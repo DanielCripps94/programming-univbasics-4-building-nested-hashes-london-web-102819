@@ -15,7 +15,7 @@ def monopoly_with_third_tier
   monopoly = {
 		railroads: {pieces: 4, 
 		rent_in_dollars: {one_piece_owned: 20, two_pieces_owned: 40, three_pieces_owned: 80, four_pieces_owned:160,
-		names: {""
+		{kingscross:{},marlyebone_station: {},frenchurch:{},liverpoolstreet:{}},
 		}
 		}
 	}
